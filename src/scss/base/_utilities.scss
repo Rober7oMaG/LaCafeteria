@@ -1,0 +1,17 @@
+@use 'variables' as v;
+
+.text-center {
+    text-align: center;
+}
+
+.bg-primary {
+    background-color: v.$primary;
+}
+
+.bg-white {
+    background-color: v.$white;
+}
+
+.margin-negative-10 {
+    margin-top: -10rem;
+}
